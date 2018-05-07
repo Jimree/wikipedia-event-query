@@ -12,7 +12,10 @@ public class CmdLineClient {
 		System.err.printf("Usage: java %s <month> <day>\n", CmdLineClient.class.getName());
 		System.exit(1);
 	}
-
+	/**
+	 * Just your average Main method.
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		if (args.length != 2) {
 			printHelpAndExit();
