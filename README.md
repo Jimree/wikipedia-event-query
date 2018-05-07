@@ -1,3 +1,3 @@
-##TODO##
-Just changing this so I can add another commit, so it looks better. 
+Hi. Just realised this shows up on github so I'm changing it to something nicer.
+Have a nice day.
 Cheers.
